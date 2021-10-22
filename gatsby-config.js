@@ -11,5 +11,8 @@ module.exports = {
         spaceId: "zftkd6qhq6hg",
       },
     },
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
   ],
 };
